@@ -103,7 +103,7 @@ export default function Nav({
 
             {children}
 
-            <NavUserInfo />
+            {/* <NavUserInfo /> */}
           </div>
         </header>
       </div>
